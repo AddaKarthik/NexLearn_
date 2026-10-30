@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 NexLearn — Modern Online Learning Platform
 > *"Learn Today. Lead Tomorrow."*
 
@@ -350,3 +351,6 @@ The app includes a floating NexLearn AI chat widget. It uses the OpenAI API thro
 
 The chatbot endpoint is `POST /api/chatbot` and accepts `{ "messages": [{ "role": "user", "content": "..." }] }`.
 Do not put the OpenAI API key in the client `.env` or any `VITE_` variable.
+=======
+# NexLearn_
+>>>>>>> 3b4abd1d3153a2af9aa5282dc87b98dcfb41a793
